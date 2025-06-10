@@ -1,4 +1,4 @@
-// 陈列图像分析助手 - 网页版本（使用 Streamlit 实现）
+# 陈列图像分析助手 - 网页版本（使用 Streamlit 实现）
 
 import streamlit as st
 from PIL import Image
